@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "start": "tsdx watch",
-    "build": "tsdx build",
+    "build": "tsdx build --target browser",
     "test": "tsdx test",
     "lint": "tsdx lint",
     "prepare": "tsdx build"
@@ -25,9 +25,9 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "mylib",
+  "name": "lite-iframe",
   "author": "asvny",
-  "module": "dist/mylib.esm.js",
+  "module": "dist/lite-iframe.esm.js",
   "devDependencies": {
     "@types/jest": "^24.0.25",
     "husky": "^4.0.9",
