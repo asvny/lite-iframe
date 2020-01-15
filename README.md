@@ -83,7 +83,7 @@ You can use `lite-iframe` like normal iframe.
 ></lite-iframe>
 ```
 
-_For live example, please see the demo [demo](https://lite-iframe-demo.netlify.com)_
+_For live example, please see the [demo](https://lite-iframe-demo.netlify.com)_
 
 <!-- CONTRIBUTING -->
 
