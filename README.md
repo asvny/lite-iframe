@@ -7,7 +7,7 @@
   <h3 align="center">&lt;lite-iframe /&gt;</h3>
 
   <p align="center">
-    A web component which enhances UX by lazy loading iframes and provides a better fallback UI
+    A web component which enhances user experience by lazy loading iframes and providing a better fallback user interface
     <br />
     <br />
     <a href="https://lite-iframe-demo.netlify.com">View Demo</a>
