@@ -65,8 +65,6 @@ You can use `lite-iframe` like normal iframe.
 ```html
 <!-- Codepen -->
 <lite-iframe
-  height="300"
-  style="width: 100%;"
   scrolling="no"
   title="Piccalilli CSS Utility — Issue  #2 — Full bleed utility"
   src="//codepen.io/andybelldesign/embed/Nmxrwv/?height=300&theme-id=dark&default-tab=css,result"
