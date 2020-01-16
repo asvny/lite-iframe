@@ -51,7 +51,7 @@ import 'lite-iframe';
 
 ```html
 <script
-  src="https://unpkg.com/lite-iframe@0.2.0/dist/lite-iframe.esm.js"
+  src="https://unpkg.com/lite-iframe@0.3.0/dist/lite-iframe.esm.js"
   type="module"
 ></script>
 ```
